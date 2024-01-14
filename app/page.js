@@ -10,13 +10,15 @@ const page = () => {
         "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png" />
 
     </head>
-
-
-    <div className=' relative w-full h-screen bg-zinc-700 '>
+<body>
+  <div className=' relative w-full h-screen bg-zinc-700 '>
       <Foreground />
       <Background />
 
     </div>
+</body>
+
+    
   </>)
 
 }
